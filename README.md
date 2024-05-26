@@ -6,3 +6,8 @@ Backup from my notes on :
 - How the web works
 - Intro to offensive/Defensive security
 - OSINT
+
+Main resources :
+- Try Hack Me
+- Hack The Box
+- ANSSI (SecNumacademie)
