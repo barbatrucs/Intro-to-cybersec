@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "7b5086f683e716b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "363a69444acab15f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40cad0224535d607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/OSINT Toolbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1ea90186461aa34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Wireless Primer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75671c9cde748c77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Windows Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2421058086a831f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4334ad5feb6d8b30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ef710981f35bdc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd0a37506ea7b355",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5307dd0945bc060",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d5d3f38e16680a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "314d2189ab814202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86beffa75de9ddc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity/Windows Fundamentals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b52fb8e07c737b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity/Windows Fundamentals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c501d75ba7c6e243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0479c28b81f3a192",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity/Windows Fundamentals.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ef710981f35bdc4",
+  "lastOpenFiles": [
+    "Cybersecurity/Pre Security.md",
+    "Cybersecurity/Windows Fundamentals.md",
+    "Cybersecurity/Linux Fundamentals.md",
+    "Cybersecurity/Wireless Primer.md",
+    "Cybersecurity/OSINT Toolbox.md",
+    "Cybersecurity/OSINT.md",
+    "Cybersecurity/Network Fundamentals.md",
+    "Cybersecurity/Packets & Frames.md",
+    "Cybersecurity/OSI Model.md",
+    "Cybersecurity/HTTP in Detail.md",
+    "Cybersecurity/DNS in detail.md",
+    "Cybersecurity/How the Web Works.md",
+    "Cybersecurity/pictures/url anatomy.png",
+    "Cybersecurity/pictures/http request.png",
+    "Cybersecurity/pictures/dns request response.png",
+    "Cybersecurity/pictures/dns domain name hierarchy.png",
+    "Cybersecurity/pictures/cookies.png",
+    "Cybersecurity/Cybersecurity MOC.md",
+    "Cybersecurity/Introduction to Digital Forensics.md",
+    "Cybersecurity/pictures/roadmap.png",
+    "Cybersecurity/pictures/ARP.png",
+    "Cybersecurity/pictures/DHCP.png",
+    "Cybersecurity/pictures/subneting example.png",
+    "Cybersecurity/pictures/MAC address.png",
+    "Cybersecurity/What is Networking.md",
+    "Cybersecurity/Threat Modelling & Incident Response.md",
+    "Cybersecurity/LAN Tyologies.md",
+    "Cybersecurity/Pentesting Fundamentals.md",
+    "Cybersecurity/Stride.md",
+    "Cybersecurity/Biba.md",
+    "Cybersecurity/Bell-La Padula.md",
+    "Cybersecurity/Linux Common directories.md",
+    "Cybersecurity/Principles of Privileges.md",
+    "Cybersecurity/CIA Triad.md",
+    "Cybersecurity/ARP Protocol.md",
+    "Cybersecurity/A Primer on subneting.md",
+    "Cybersecurity/pictures",
+    "Cybersecurity"
+  ]
+}

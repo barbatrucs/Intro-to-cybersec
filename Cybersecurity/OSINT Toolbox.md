@@ -1,0 +1,5 @@
+
+https://www.bellingcat.com/
+https://osintframework.com/
+https://hacktoria.com/
+https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit?pli=1#gid=1130825724
