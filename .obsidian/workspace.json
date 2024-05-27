@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Packets & Frames.md",
+                "file": "Cybersecurity/LAN Tyologies.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "switch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Packets & Frames.md",
+                "file": "Cybersecurity/LAN Tyologies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Packets & Frames.md",
+                "file": "Cybersecurity/LAN Tyologies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Packets & Frames.md"
+                "file": "Cybersecurity/LAN Tyologies.md"
               }
             }
           }
@@ -172,9 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75671c9cde748c77",
+  "active": "dd0a37506ea7b355",
   "lastOpenFiles": [
+    "Cybersecurity/Network Fundamentals.md",
     "Cybersecurity/OSI Model.md",
+    "Cybersecurity/Packets & Frames.md",
     "Cybersecurity/ARP Protocol.md",
     "Cybersecurity/Intro to LAN.md",
     "Cybersecurity/LAN Tyologies.md",
@@ -189,8 +192,6 @@
     "Cybersecurity/Linux Fundamentals.md",
     "Cybersecurity/OSINT Toolbox.md",
     "Cybersecurity/OSINT.md",
-    "Cybersecurity/Network Fundamentals.md",
-    "Cybersecurity/Packets & Frames.md",
     "Cybersecurity/HTTP in Detail.md",
     "Cybersecurity/DNS in detail.md",
     "Cybersecurity/How the Web Works.md",
