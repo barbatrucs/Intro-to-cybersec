@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Defensive Security.md",
+                "file": "Cybersecurity/Packets & Frames.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Defensive Security.md",
+                "file": "Cybersecurity/Packets & Frames.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Defensive Security.md",
+                "file": "Cybersecurity/Packets & Frames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Defensive Security.md"
+                "file": "Cybersecurity/Packets & Frames.md"
               }
             }
           }
@@ -174,9 +174,14 @@
   },
   "active": "75671c9cde748c77",
   "lastOpenFiles": [
+    "Cybersecurity/OSI Model.md",
+    "Cybersecurity/ARP Protocol.md",
+    "Cybersecurity/Intro to LAN.md",
+    "Cybersecurity/LAN Tyologies.md",
+    "Cybersecurity/pictures/osi model.png",
+    "Cybersecurity/Defensive Security.md",
     "Cybersecurity/Cybersecurity MOC.md",
     "Cybersecurity/Introduction to Digital Forensics.md",
-    "Cybersecurity/Defensive Security.md",
     "README.md",
     "Cybersecurity/Wireless Primer.md",
     "Cybersecurity/Windows Fundamentals.md",
@@ -186,7 +191,6 @@
     "Cybersecurity/OSINT.md",
     "Cybersecurity/Network Fundamentals.md",
     "Cybersecurity/Packets & Frames.md",
-    "Cybersecurity/OSI Model.md",
     "Cybersecurity/HTTP in Detail.md",
     "Cybersecurity/DNS in detail.md",
     "Cybersecurity/How the Web Works.md",
@@ -199,17 +203,13 @@
     "Cybersecurity/pictures/ARP.png",
     "Cybersecurity/pictures/DHCP.png",
     "Cybersecurity/pictures/subneting example.png",
-    "Cybersecurity/pictures/MAC address.png",
     "Cybersecurity/What is Networking.md",
     "Cybersecurity/Threat Modelling & Incident Response.md",
-    "Cybersecurity/LAN Tyologies.md",
     "Cybersecurity/Pentesting Fundamentals.md",
     "Cybersecurity/Stride.md",
     "Cybersecurity/Biba.md",
     "Cybersecurity/Bell-La Padula.md",
     "Cybersecurity/Linux Common directories.md",
-    "Cybersecurity/Principles of Privileges.md",
-    "Cybersecurity/CIA Triad.md",
     "Cybersecurity/pictures",
     "Cybersecurity"
   ]
