@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Wireless Primer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75671c9cde748c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/LAN Tyologies.md",
+                "file": "Cybersecurity/Web Application Security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/LAN Tyologies.md",
+                "file": "Cybersecurity/Web Application Security.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/LAN Tyologies.md",
+                "file": "Cybersecurity/Web Application Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/LAN Tyologies.md"
+                "file": "Cybersecurity/Web Application Security.md"
               }
             }
           }
@@ -173,20 +160,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0a37506ea7b355",
+  "active": "b1ea90186461aa34",
   "lastOpenFiles": [
+    "Cybersecurity/Offensive Security.md",
+    "Cybersecurity/Wireless Primer.md",
+    "Cybersecurity/LAN Tyologies.md",
+    "Cybersecurity/Web Application Security.md",
+    "Cybersecurity/How web servers work.md",
+    "How web servers work.md",
+    "Untitled.md",
+    "Cybersecurity/How websites work.md",
+    "How websites work.md",
     "Cybersecurity/Network Fundamentals.md",
     "Cybersecurity/OSI Model.md",
     "Cybersecurity/Packets & Frames.md",
     "Cybersecurity/ARP Protocol.md",
     "Cybersecurity/Intro to LAN.md",
-    "Cybersecurity/LAN Tyologies.md",
     "Cybersecurity/pictures/osi model.png",
     "Cybersecurity/Defensive Security.md",
     "Cybersecurity/Cybersecurity MOC.md",
     "Cybersecurity/Introduction to Digital Forensics.md",
     "README.md",
-    "Cybersecurity/Wireless Primer.md",
     "Cybersecurity/Windows Fundamentals.md",
     "Cybersecurity/Pre Security.md",
     "Cybersecurity/Linux Fundamentals.md",
@@ -204,13 +198,6 @@
     "Cybersecurity/pictures/ARP.png",
     "Cybersecurity/pictures/DHCP.png",
     "Cybersecurity/pictures/subneting example.png",
-    "Cybersecurity/What is Networking.md",
-    "Cybersecurity/Threat Modelling & Incident Response.md",
-    "Cybersecurity/Pentesting Fundamentals.md",
-    "Cybersecurity/Stride.md",
-    "Cybersecurity/Biba.md",
-    "Cybersecurity/Bell-La Padula.md",
-    "Cybersecurity/Linux Common directories.md",
     "Cybersecurity/pictures",
     "Cybersecurity"
   ]
