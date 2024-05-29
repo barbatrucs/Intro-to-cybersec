@@ -46,6 +46,11 @@ Access control ensures that each user can only access files (documents, images, 
 - Being able to view or modify someone else’s account by using its unique identifier. For example, you don’t want one bank client to be able to view the transactions of another client.
 - Being able to browse pages that require authentication (logging in) as an unauthenticated user. For example, we cannot let anyone view the webmail before logging in.
 
+example of BAC vulnerability :
+
+**Insecure direct object references (IDOR)** are a type of access control vulnerability that arises when an application uses user-supplied input to access objects directly. the web application does not validate whether the user has permission to access the requested object.
+The term IDOR was popularized by its appearance in the OWASP 2007 Top Ten.
+
 ### Injection
 
 An injection attack refers to a vulnerability in the web application where the user can insert malicious code as part of their input. One cause of this vulnerability is the lack of proper validation and sanitization of the user’s input.
