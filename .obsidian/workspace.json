@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Web Application Security.md",
+                "file": "Personal dev/Learning dependencies.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 363.5
   },
   "right": {
     "id": "d5d3f38e16680a04",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Web Application Security.md",
+                "file": "Personal dev/Learning dependencies.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Web Application Security.md",
+                "file": "Personal dev/Learning dependencies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Web Application Security.md"
+                "file": "Personal dev/Learning dependencies.md"
               }
             }
           }
@@ -162,12 +162,17 @@
   },
   "active": "b1ea90186461aa34",
   "lastOpenFiles": [
+    "Cybersecurity/Operating System Security.md",
+    "Cybersecurity/pictures/cybersec roadmap.png",
+    "Cybersecurity/PenTest toolbox.md",
+    "README.md",
+    "Cybersecurity/Web Application Security.md",
+    "Cybersecurity/Organization - Penetration testing folder structure.md",
     "Personal dev/Learning dependencies.md",
     "Personal dev",
     "Cybersecurity/Offensive Security.md",
     "Cybersecurity/Wireless Primer.md",
     "Cybersecurity/LAN Tyologies.md",
-    "Cybersecurity/Web Application Security.md",
     "Cybersecurity/How web servers work.md",
     "How web servers work.md",
     "Untitled.md",
@@ -182,14 +187,9 @@
     "Cybersecurity/Defensive Security.md",
     "Cybersecurity/Cybersecurity MOC.md",
     "Cybersecurity/Introduction to Digital Forensics.md",
-    "README.md",
     "Cybersecurity/Windows Fundamentals.md",
     "Cybersecurity/Pre Security.md",
     "Cybersecurity/Linux Fundamentals.md",
-    "Cybersecurity/OSINT Toolbox.md",
-    "Cybersecurity/OSINT.md",
-    "Cybersecurity/HTTP in Detail.md",
-    "Cybersecurity/DNS in detail.md",
     "Cybersecurity/pictures/url anatomy.png",
     "Cybersecurity/pictures/http request.png",
     "Cybersecurity/pictures/dns request response.png",
@@ -198,7 +198,6 @@
     "Cybersecurity/pictures/roadmap.png",
     "Cybersecurity/pictures/ARP.png",
     "Cybersecurity/pictures/DHCP.png",
-    "Cybersecurity/pictures/subneting example.png",
     "Cybersecurity/pictures",
     "Cybersecurity"
   ]
