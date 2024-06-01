@@ -17,6 +17,8 @@ Some of the tasks that are related to defensive security include:
  - Unauthorized activity: Consider the case where a user’s login name and password are stolen, and the attacker uses them to log into the network.
  - Network intrusions: No matter how good your security is, there is always a chance for an intrusion. An intrusion can occur when a user clicks on a malicious link or when an attacker exploits a public server.
 
+[[Security Operations]]
+
 ### Threat intelligence
 
 In this context, _intelligence_ refers to information you gather about actual and potential enemies. A _threat_ is any action that can disrupt or adversely affect a system. Threat intelligence aims to gather information to help the company better prepare against potential adversaries. The purpose would be to achieve a _threat-informed defense_.
