@@ -1,5 +1,7 @@
 The Open Systems Interconnection Model provides a framework dictating how all networked devices will send, receive and interpret data.
 
+**A**nxious **P**ale **S**hakespeare **T**reated **N**ervous **D**runks **P**atiently
+
 ![[osi model.png]]
 
 
@@ -32,6 +34,8 @@ Layer 4 of the OSI model plays a vital part in transmitting data across a networ
 
 - TCP
 - UDP
+
+With a protocol selected, the transport layer then divides the transmission up into bite-sized pieces (over TCP these are called _segments_, over UDP they're called _datagrams_), which makes it easier to transmit the message successfully.
 
 #### TCP
 Let's begin with TCP. The **T**ransmission **C**ontrol **P**rotocol (**TCP**). Potentially hinted by the name, this protocol is designed with reliability and guarantee in mind. This protocol reserves a constant connection between the two devices for the amount of time it takes for the data to be sent and received.

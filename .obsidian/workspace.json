@@ -8,127 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40cad0224535d607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/OSINT Toolbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1ea90186461aa34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal dev/Learning dependencies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d8ad349ed6cc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Network Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9ec56e504a99cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Security Operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "202c1729d5c6200f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/PenTest toolbox.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1c0b5b37505a47c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Buffer Overflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "281107a4a303c36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Splunk Password Hashing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "191a35c09250b281",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/DNS Tunneling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d3c074c3d9eb8a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Buffer Overflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee9745be545ef504",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Introductory Researching.md",
+                "file": "Cybersecurity/Network Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09a7d9a175127f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Packets & Frames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01598a8ea62a7b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/What is Networking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f382a9c7fe3578a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Nmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c843ad03694391db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Netmasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "organisat",
+                "query": "nma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Introductory Researching.md",
+                "file": "Cybersecurity/Netmasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Introductory Researching.md",
+                "file": "Cybersecurity/Netmasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Introductory Researching.md"
+                "file": "Cybersecurity/Netmasks.md"
               }
             }
           }
@@ -256,36 +196,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee9745be545ef504",
+  "active": "3ef710981f35bdc4",
   "lastOpenFiles": [
-    "Cybersecurity/DNS Tunneling.md",
+    "Cybersecurity/Network Fundamentals.md",
+    "Cybersecurity/Netmasks.md",
+    "Cybersecurity/Nmap.md",
+    "Cybersecurity/Network Security.md",
+    "Cybersecurity/Packets & Frames.md",
+    "Cybersecurity/Encapsulation.md",
+    "Cybersecurity/What is Networking.md",
+    "Cybersecurity/iso-tcp models comparison.png",
+    "Cybersecurity/TCP-IP Model.md",
+    "TCP-IP Model.md",
+    "Cybersecurity/OSI Model.md",
+    "iso-tcp models comparison.png",
     "Cybersecurity/Buffer Overflow.md",
-    "Cybersecurity/Reverse Shell.md",
+    "Cybersecurity/DNS Tunneling.md",
     "Cybersecurity/Splunk Password Hashing.md",
     "Cybersecurity/PenTest toolbox.md",
-    "Cybersecurity/Introductory Researching.md",
     "Cybersecurity/Security Operations.md",
+    "Encapsulation.md",
+    "Cybersecurity/Introductory Researching.md",
+    "Cybersecurity/Reverse Shell.md",
     "Cybersecurity/Cybersecurity MOC.md",
     "Cybersecurity/Offensive Security.md",
     "Cybersecurity/Operating System Security.md",
-    "Cybersecurity/Network Fundamentals.md",
     "Cybersecurity/Wireless Primer.md",
     "Cybersecurity/Web Application Security.md",
     "Cybersecurity/Stride.md",
     "Cybersecurity/Defensive Security.md",
     "Cybersecurity/Intro to Pentesting.md",
-    "Cybersecurity/Network Security.md",
-    "README.md",
-    "Cybersecurity/Packets & Frames.md",
-    "Cybersecurity/OSI Model.md",
-    "Personal dev/Learning dependencies.md",
     "Cybersecurity/pictures/cybersec roadmap.png",
-    "Cybersecurity/Organization - Penetration testing folder structure.md",
     "Personal dev",
-    "Cybersecurity/LAN Tyologies.md",
-    "Cybersecurity/How web servers work.md",
-    "How web servers work.md",
-    "Cybersecurity/How websites work.md",
     "Cybersecurity/pictures/osi model.png",
     "Cybersecurity/pictures/url anatomy.png",
     "Cybersecurity/pictures/http request.png",
@@ -293,8 +235,6 @@
     "Cybersecurity/pictures/dns domain name hierarchy.png",
     "Cybersecurity/pictures/cookies.png",
     "Cybersecurity/pictures/roadmap.png",
-    "Cybersecurity/pictures/ARP.png",
-    "Cybersecurity/pictures/DHCP.png",
     "Cybersecurity/pictures",
     "Cybersecurity"
   ]
